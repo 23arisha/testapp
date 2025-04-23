@@ -1,0 +1,7 @@
+{
+    "start": [
+      "streamlit run app.py"
+    ],
+    "web": "http://localhost:8501"
+  }
+  

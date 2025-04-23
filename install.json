@@ -1,0 +1,9 @@
+{
+    "name": "Simple Streamlit App",
+    "description": "A minimal Streamlit app for Pinokio testing",
+    "language": "python",
+    "install": [
+      "pip install -r requirements.txt"
+    ]
+  }
+  
